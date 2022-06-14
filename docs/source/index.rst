@@ -5,5 +5,3 @@
 
 Welcome to Elves's documentation!
 =================================
-
-Elves is a shared utilities library that contains a wide range of utility functions that can be used by teams from across the organisation.
