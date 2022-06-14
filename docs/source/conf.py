@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('../../..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Elves'
+project = 'PR-Testing'
 copyright = '2022, HPE'
 author = 'HPE'
 
@@ -48,8 +48,3 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'furo'
-
-html_show_sourcelink = False
-
-add_module_names = False
